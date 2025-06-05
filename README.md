@@ -374,9 +374,3 @@ For issues and support:
    # Check RealSense logs
    realsense-viewer --log-level debug
    ```
-
-## License
-[Add your license information here]
-
-## Contributing
-[Add contribution guidelines if applicable]
